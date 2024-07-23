@@ -4,7 +4,7 @@
 
 - **Contest:** Codeforces Round #958
 - **Division:** 2
-- **Date:** 17th July 2024
+- **Date:** 15th July 2024
 
 ## 🔗 Contest Link
 
